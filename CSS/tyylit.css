@@ -1,0 +1,23 @@
+﻿body
+{
+}
+img {
+	margin: 10px;
+	}
+#eka { 
+float: left;
+}
+#toka {
+clear: both; 
+float: right;
+}
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th {
+text-align: left;
+}
+td {
+	width: 200px;
+}
