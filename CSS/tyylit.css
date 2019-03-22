@@ -16,8 +16,13 @@ table {
 	border-collapse: collapse;
 }
 th {
-text-align: left;
+	text-align: left;
+	background: red;
+	color: white;
 }
 td {
 	width: 200px;
+}
+tr:nth-child(even) {
+background: yellow;
 }
