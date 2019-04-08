@@ -1,0 +1,75 @@
+﻿body {
+	background: #DDDEDC;
+}
+h1 {
+	color: #8944B6;
+}
+
+#yksi {
+	color: #D21717;
+}
+#kaksi {
+	color: #D2175C;
+	font-size: 150%;
+}
+#kolme {
+	color: #D217A0;
+	font-size: 200%;
+}
+#neljä {
+	color: #B917D2;
+	font-size: 250%
+}
+#viisi {
+	color: #7517D2;
+	font-size: 300%
+}
+#kuusi {
+	color: #3017D2;
+	font-size: 300%
+}
+#seitsemän {
+	color: #176ED2;
+	font-size: 250%
+}
+#kahdeksan {
+	color: #17D2D2;
+	font-size: 200%;
+}
+#yhdeksän {
+	color: #17D287;
+	font-size: 150%;
+}
+#kymmenen {
+	color: #36D217;
+	font-size: 100%
+}
+
+h2 {
+	font-family: 'Baloo Chettan';
+	color: #D2AD17;
+}
+#juuh {
+	font-family: 'Gruppo';
+	color: #5B44B6;
+}
+#Lorem {
+	font-family: 'Racing Sans One';
+	color: #CB8933;
+}
+#vuh {
+	font-family: 'Lekton';
+	color: #5B44B6;
+}
+#ruh {
+	font-family: 'Hanalei Fill';
+	color: #CB8933;
+}
+#jah{
+font-family: 'Bungee';
+color: #5B44B6;
+}
+#itdo{
+font-family: 'Graduate';
+color: #CB8933;
+}

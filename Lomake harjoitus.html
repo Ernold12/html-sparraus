@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Lomake harjoitus</title>
+	<link href="css/lomaketyyli.css" type="text/css"rel="stylesheet">
+</head>
+<body>
+<table>
+	<tbody>
+	<tr>
+		<th colspan="2">
+			<h1>Tiedon keruu!</h1>
+		</th>
+	</tr>
+	<tr>
+		<td class="otsikot">
+		<h2>Nimi:</h2>
+		</td>
+		<td>
+		<input type="text" name="nimi" placeholder="Kirjoita funi haha">
+		</td>
+	</tr>
+	<tr>
+		<td class="otsikot">
+		<h2>Sähköposti:</h2>
+		</td>
+		<td>
+		<input type="text" name="spotsi" placeholder="Kirjoita se sposti">
+		</td>
+	</tr>
+	<tr>
+		<td class="otsikot">
+		<h2>Sijainti:</h2>
+		</td>
+		<td>
+		<select name="city" class="select">
+		<option value="helsinki">Helsinki</option>
+		<option value="espoo">Espoo</option>
+		<option value="vantaa">Vantaa</option>
+		<option value="muu">Muu</option>
+		</td>
+	</tr>
+	<tr>
+	<td class="otsikot">
+	<h2>Sukupuoli:</h2>
+	</td>
+	<td><input type="radio" name="gender" value="male" checked> Mies<br>
+	<input type="radio" name="gender" value"female">Nainen<br>
+	<input type="radio" name="gender" value"other">Joku muu<br>
+	</tr>
+	<tr>
+		<td class="otsikot">
+		<h2>Synnintekopäivä</h2>
+		</td>
+		<td>
+		<input type="date" name="bday" class="select">
+		</td>
+	</tr>
+	<tr>
+		<td class="otsikot">
+		<h2>Arvosana koulutukselle</h2>
+		</td>
+		<td>
+		<input type="number" name="quanity" min="0" max="10" class="select">
+		</td>
+	</tr>
+	<tr>
+		<td class ="otsikot">
+		<h2>Osaan tehdä:</h2>
+		</td>
+		<td>
+		<input type="checkbox" name="taito1" value="backflip">Takaperinvoltin
+		</td>
+	</tr>
+	</tbody>		
+</table
+</body>
+</html>
