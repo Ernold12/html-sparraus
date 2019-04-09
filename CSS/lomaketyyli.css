@@ -3,6 +3,7 @@
 display: block;
 margin: auto;
 width: 700px;
+padding-bottom: 200px;
 }
 table, th, td
 {
@@ -10,6 +11,7 @@ border: 1px solid black;
 border-collapse: collapse;
 background-color: mistyrose;
 opacity: 0.75;
+
 }
 .otsikot
 {
@@ -29,4 +31,9 @@ display: block;
 font-size: 20px;
 width: 200px;
 height: 30px;
+}
+#bazinga {
+	margin: auto;
+	padding: 30px;
+	font-size: 150%;
 }
